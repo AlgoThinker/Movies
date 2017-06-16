@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="error_message">
+        An error has occurred. Please try again !
+    </string>
+    <string name="movie_poster_thumbnail">Movie Poster Thumbnail</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="movie_title_background_color">#009688</string>
+    <string name="thumbnail_poster_image_url">http://image.tmdb.org/t/p/w342/</string>
+    <string name="position_value_string">The value of position..</string>
+    <string name="poster_image_url_main_view">http://image.tmdb.org/t/p/w780/</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular_string">Most Popular</string>
+</resources>
